@@ -1,3 +1,11 @@
+# sweetalert2-unrestricted
+
+Forked to remove restrictions to any countries.
+
+[![npm Package Version](https://img.shields.io/npm/v/sweetalert2-unrestricted)](https://www.npmjs.com/package/sweetalert2-unrestricted)
+
+---
+
 <a href="https://sweetalert2.github.io/">
   <img src="./assets/swal2-logo.png" width="498" alt="SweetAlert2">
 </a>
